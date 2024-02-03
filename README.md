@@ -1,6 +1,6 @@
 # Live-Letters-Counter
 
-## Подсчет символов в тексте | Counting characters in text
+## Counting characters in text
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/172147972-e9d56c70-0134-495b-86ac-e2982ccaec90.png)
 
